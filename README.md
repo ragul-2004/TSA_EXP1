@@ -1,16 +1,16 @@
-## Ex.No: 01A PLOT A TIME SERIES DATA
-###  Date: 24-08-2024
-###  Name : Ragul A C
+###  Developed by : Ragul A C
 ###  Register no: 212221240042
+###  Date:
+
+## Ex.No: 01A PLOT A TIME SERIES DATA
 
 # AIM:
-To Develop a python program to Plot a time series data (population/ market price of a commodity
-/temperature.
+To Develop a python program to Plot a time series data that measures Total revenue of mobile sales.
 # ALGORITHM:
 1. Import the required packages like pandas and matplot
 2. Read the dataset using the pandas
 3. Calculate the mean for the respective column.
-4. Plot the data according to need and can be altered monthly, or yearly.
+4. Plot the data according to monthly sales.
 5. Display the graph.
 # PROGRAM:
 ~~~
@@ -40,4 +40,4 @@ plt.show()
 ![output](https://github.com/user-attachments/assets/2c7d6754-1027-4839-b6cc-d93bb2435c78)
 
 # RESULT:
-Thus we have created the python code for plotting the time series of given data.
+Thus we have created the python code for plotting the time series of mobile sales.
