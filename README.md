@@ -1,7 +1,7 @@
-### Ex.No: 01A PLOT A TIME SERIES DATA
-#  Date: 24-08-2024
-#  Name : Ragul A C
-#  Register no: 212221240042
+## Ex.No: 01A PLOT A TIME SERIES DATA
+###  Date: 24-08-2024
+###  Name : Ragul A C
+###  Register no: 212221240042
 
 # AIM:
 To Develop a python program to Plot a time series data (population/ market price of a commodity
